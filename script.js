@@ -6,5 +6,5 @@ function generateRandomText() {
   
   var box = event.currentTarget;
   var randomText = box.querySelector("p");
-  randomText.innerHTML = '<a href="https://wa.me/6281234567890?text=' + randomWord + '">' + randomWord + '</a>';
+  randomText.innerHTML = '<a href="https://wa.me/6285155145788?text=' + randomWord + '">' + randomWord + '</a>';
 }
