@@ -1,5 +1,5 @@
 function generateRandomText() {
-  var words = ["VCS", "mie gacoan", "VCS", "Main tiap hari", "Ayam geprek","VCS","main tiap hati","jatah nambah"];
+  var words = ["VCS", "mie gacoan","Main tiap hari", "Ayam geprek","VCS","main tiap hati","jatah nambah"];
   
   var randomIndex = Math.floor(Math.random() * words.length);
   var randomWord = words[randomIndex];
